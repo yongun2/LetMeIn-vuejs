@@ -1,5 +1,6 @@
 <template>
-  <h3>Home</h3>
+  <main-nav-header />
+  <router-view></router-view>
 </template>
 
 <script setup>
